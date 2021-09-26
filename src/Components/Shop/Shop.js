@@ -58,6 +58,7 @@ const Shop = () => {
                              
                            }
                             {
+                                // This section is writen for to say i've already added key in the parent of product.
                                  console.log("Already Use Key as in every Child in the Product Component")
                             }
                        </div>
