@@ -1,0 +1,142 @@
+[
+    {
+       "id": "1",
+       "title": "Subaru Outback",
+       "sold": 153294,
+       "publish" : "10/05/2000",
+       "rating" : 3.5,
+       "price": 1503660,
+       "description": "The Chevy Silverado 1500 is a widely respected, full-size pickup truck and the only station wagon that sells in significant numbers in the U.S.",
+       "img": "https://d.newsweek.com/en/full/1766116/subaru-forester-e-boxer.webp?w=790&f=3bfd2cfa358264c692048ab0fe85a71f"
+    },
+    {
+       "id": "2",
+       "title": "Subaru Forester",
+       "sold": 176996,
+       "publish" : "10/06/2001",
+       "rating" : 4,
+       "price": 1703660,
+       "description": "Subaru's standard all-wheel drive and adventuresome image apply perfectly to the Forester compact SUV, and sales were impressively only down by two percent in 2020.",
+       "img": "https://d.newsweek.com/en/full/1766123/ford-escape.webp?w=790&f=a7d8249e5afd8042d2060e30a5cbf88a"
+    },
+    {
+       "id": "3",
+       "title": "Ford Escape",
+       "sold": 178496,
+       "publish" : "15/05/2002",
+       "rating" : 5,
+       "price": 1803660,
+       "description": "Ford's Escape crossover is designed to appeal to the on-road, family-car demographic. However, sales of the compact crossover dropped significantly in 2020.",
+       "img": "https://d.newsweek.com/en/full/1766129/honda-accord.webp?w=790&f=d08fb48ef70a798545c749c1ab0c5b65"
+    },
+    {
+       "id": "4",
+       "title": "Honda Accord",
+       "sold": 201311,
+       "publish" : "02/05/2010",
+       "rating" : 5,
+       "price": 2003660,
+       "description": "The Wrangler's World War 2-era military design actually hides a wide range of creature comforts—but this Jeep still saw a 12 percent fall in sales",
+       "img": "https://d.newsweek.com/en/full/1766137/jeep-grand-cherokee.webp?w=790&f=bd8bb444114da9ef092522f291301ee8"
+    },
+    {
+       "id": "5",
+       "title": "Jeep Grand Cherokee",
+       "sold": 209786,
+       "publish" : "18/05/2005",
+       "rating" : 3,
+       "price": 2103660,
+       "description": "Although the Grand Cherokee remains the best-selling Jeep in the US, the off-road brand's numbers have fallen along with other Jeep models.",
+       "img": "https://d.newsweek.com/en/full/1766139/toyota-highlander-most-popular-car-us-models.webp?w=790&f=e912396d6e2fa9b14dcf215d6dd12213"
+    },
+    {
+       "id": "6",
+       "title": "Toyota Highlander",
+       "sold": 212276,
+       "publish" : "08/06/2003",
+       "rating" : 5,
+       "price": 2253660,
+       "description": "Boasting the appeal of an old-school family station wagon, the Toyota Highlander rose several spots in this year's car sales ranking.",
+       "img": "https://d.newsweek.com/en/full/1766148/ford-explorer-most-popular-us-car-models.webp?w=790&f=4dedb5656063c44fde847c113519151d"
+    },
+    {
+       "id": "7",
+       "title": " Ford Explorer",
+       "sold": 226217,
+       "publish" : "10/10/20105",
+       "rating" : 5,
+       "price": 2453660,
+       "description": "The Ford Explorer offers three rows of seats, plenty of space for shifting bulky cargo and comes equipped with much of the connectivity and safety features. All this goes some way to explaining why the Explorer is one of the few models to witness a rise in sales.",
+       "img": "https://d.newsweek.com/en/full/1766150/nissan-rogue.webp?w=790&f=6ccd95259fe6b9433859f6fd5534d974"
+    },
+    {
+       "id": "8",
+       "title": "Nissan Rogue",
+       "sold": 227935,
+       "publish" : "07/06/2004",
+       "rating" : 3,
+       "price": 253660,
+       "description": "Although the Nissan's Rogue compact SUV redesign involved more attractive styling, modernised interior tech and improved performance, this did not prevent car sales slumping 35 percent.",
+       "img": "https://d.newsweek.com/en/full/1766151/toyota-corolla.webp?w=790&f=bb119a4498df63492c4038b6cf87cedf"
+    },
+    {
+       "id": "9",
+       "title": "Toyota Corolla",
+       "sold": 237178,
+       "publish" : "10/06/2013",
+       "rating" : 4.5,
+       "price": 353660,
+       "description": "The 2021 Toyota Corolla continues the manufacturer's tradition of building inexpensive, safety-minded, and well-equipped compact cars.",
+       "img": "https://d.newsweek.com/en/full/1766160/toyota-tacoma.webp?w=790&f=c3f5455da8c164c25dd0a3f672121d2f"
+    },
+    {
+       "id": "10",
+       "title": "GMC Sierra",
+       "sold": 237178,
+       "publish" : "08/06/2004",
+       "rating" : 5,
+       "price": 503660,
+       "description": "The full-size pickup truck GMC Sierra had a relatively-strong year and is increasingly perceived as one of the few bright spots in the industry, with sales rising nine percent compared with last year.",
+       "img": "https://d.newsweek.com/en/full/1766163/honda-civic.webp?w=790&f=5096c7341f0ce36db96096204a0327f7"
+    },
+    {
+       "id": "11",
+       "title": "Honda Civic",
+       "sold": 261225,
+       "publish" : "08/06/2008",
+       "rating" : 2.5,
+       "price": 603660,
+       "description": "Honda's popular Civic compact car debuted a more refined appearance, new features and a improved cabin design—but this did not prevent a 20 percent slump in sales through 2020.",
+       "img": "https://d.newsweek.com/en/full/1766164/chevrolet-equinox.webp?w=790&f=be9518d85b03658fc84e36cb1b7a7463"
+    },
+    {
+       "id": "12",
+       "title": "Chevrolet Equinox ",
+       "sold": 270994,
+       "publish" : "14/06/2009",
+       "rating" : 3.1,
+       "price": 703660,
+       "description": "The 2022 Chevrolet Equinox is among the most popular compact crossovers, although purchases decreased by 22 percent in 2020.",
+       "img": "https://d.newsweek.com/en/full/1766166/toyota-camry.webp?w=790&f=de97e4c6a44f89d1b734bd3f48204386"
+    },
+    {
+       "id": "13",
+       "title": "Toyota Camry",
+       "sold": 294348,
+       "publish" : "19/06/2013",
+       "rating" : 3,
+       "price": 753660,
+       "description": "The highly rated Toyota Camry family sedan retained its best-selling passenger-car title in 2020, despite a 13 percent drop in sales.",
+       "img": "https://d.newsweek.com/en/full/1766170/honda-cr-v.webp?w=790&f=3f6588f4d71225d6ec4a7d981a2beed4"
+    },
+    {
+       "id": "14",
+       "title": " Honda CR-V",
+       "sold": 2942348,
+       "publish" : "08/06/2019",
+       "rating" : 4,
+       "price": 743660,
+       "description": "Despite its impressive versatility winning many accolades, the recently updated Honda CR-V still saw a 13 percent drop in sales last year.",
+       "img": "https://d.newsweek.com/en/full/1766172/toyota-rav4.webp?w=790&f=da63defd27f5087da708e2715434fd8b"
+    }
+ ]

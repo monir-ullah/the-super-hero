@@ -1,0 +1,28 @@
+.logo-header{
+    margin-top: 15px;
+    height: 85px;
+    box-shadow:1px 3px 4px #8080805c;
+    display: flex;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    z-index: 1;
+}
+
+.logo-img img{
+    margin-left: 300px;
+}
+
+.btn-div{
+    position: relative;
+    left: 240px;
+    margin: 20px auto;
+}
+.book-btn{
+    padding: 15px 60px;
+    border-radius: 30px;
+    border: none;
+    background-color: #D92115;
+    color: white;
+    
+}
