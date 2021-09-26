@@ -5,16 +5,22 @@ import './Shop.css'
 
 const Shop = () => {
      const [products, setProducts] = useState([]);
-     const [cart, setCart] = useState([])
+     const [cart, setCart] = useState([]);
+
+    //  I use useEffect to load data from my local storage(PC)
      useEffect( () =>{
          fetch('./fakeDB.JSON')
          .then(res => res.json())
          .then(data => setProducts(data));
      },[])
+
+    // Added Event handler to select/ add to cart the product 
      const handleAddToCart = (product) => {
         const newCart = [...cart, product];
         setCart(newCart);
     }
+
+    // This Condition is for fun. This will you a error if you select more than 13 product. 
     if(cart.length>=14){
         alert("You have Selected more than 13 card. Do you have enough Money");
         return (
@@ -30,6 +36,7 @@ const Shop = () => {
             <div className="shop-item-cart">
                 <div className="product-grid">
                     {
+                        // This section will get all product using map
                         products.map(product => <Product
                         product={product}
                         key={product.id}
@@ -38,6 +45,7 @@ const Shop = () => {
                     }
                 </div>
                 <div >
+                    {/* This if for Cart Section */}
                        <div className="cart-info">
                         <Cart
                             cart={cart}

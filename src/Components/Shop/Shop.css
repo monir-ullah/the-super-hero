@@ -1,8 +1,8 @@
+/* This code help to see the product and cart togetter */
 .shop-item-cart{
     display: flex;
-    
-    /* grid-template-columns: 3fr, 1fr; */
 }
+/* This section is for stiky cart */
 .cart-info{
     padding: 10px;
     margin-left: 40px;
@@ -14,6 +14,7 @@
     top: 107px;
     margin-bottom: 20px;
 }
+/* This section is use to show selected car name */
 .added-name{
     padding: 10px;
     margin-left: 40px;
@@ -25,15 +26,18 @@
     overflow-y: hidden;
     
 }
-
+/* This section is Main div of the store */
 .shop-main-div{
     margin-left: 288px;
 }
+/* This section is use for product grid */
 .product-grid{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 40px;
 }
+/* This section is use for Fun error Message
+ */
 .red-cross{
     font-size: 35px;
     font-weight: 500;
